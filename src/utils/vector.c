@@ -10,6 +10,8 @@
 
 #include <parserutils/utils/vector.h>
 
+#include "utils/utils.h"
+
 /**
  * Vector object
  */

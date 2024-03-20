@@ -10,6 +10,8 @@
 
 #include <parserutils/utils/stack.h>
 
+#include "utils/utils.h"
+
 /**
  * Stack object
  */
