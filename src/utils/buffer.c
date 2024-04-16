@@ -10,6 +10,8 @@
 
 #include <parserutils/utils/buffer.h>
 
+#include <utils/utils.h>
+
 #define DEFAULT_SIZE (4096)
 
 /**
